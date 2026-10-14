@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Playwright temporary output
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+# Traces and failure artifacts (large, recreated every run)
+reports/test-results/
