@@ -1,4 +1,4 @@
-# AKQA – Flight Search Automation
+# AGODA – Flight Search Automation
 Test automation for the AKQA technical challenge (part 2, Case 1).
 
 Requirement from the PO: users should be able to get the flights for a given route on a given date. I automated this on Agoda's flight search using Playwright with TypeScript.
